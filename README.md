@@ -64,7 +64,7 @@ Tables principales :
 ## 🛠️ Technologies & Outils
 - **SGBD :** MySQL / SQLite  
 - **SQL :** création, peuplement, requêtes analytiques
-- **Microsoft Excel :** 
+- **Microsoft Excel :** tableaux de visualisation des données (Matrice des Dépendances Fonctionnelles)
 
 ---
 
