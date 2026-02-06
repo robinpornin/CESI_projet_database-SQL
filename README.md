@@ -1,7 +1,3 @@
-# CESI_projet_database-SQL
-Conception intégrale d'une base de données SQL, selon un cahier des charges précis et complexe, à l'aide de l'outil mySQL (SGBDR) 
-
-
 # Projet Bases de données – CESI Nice
 
 🎓 Étudiant : Robin Pornin  
