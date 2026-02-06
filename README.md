@@ -21,7 +21,7 @@ L’objectif : créer une **base de données relationnelle fiable**, centralisé
 
 ---
 
-## 💾 Structure de la base
+## 🧬 Structure de la base
 Tables principales :  
 
 - `Regions`, `Villes`, `Agences`  
@@ -36,7 +36,7 @@ Tables principales :
 
 ---
 
-## 🧱 Peuplement
+## 💾  Peuplement
 - 13 régions, 2 villes par région  
 - 14 agences, 41 employés minimum  
 - 6 capteurs par ville, 2 relevés par capteur → **312 relevés**  
