@@ -73,6 +73,3 @@ Tables principales :
 - Requêtes analytiques opérationnelles  
 - Contraintes d’intégrité respectées  
 - Données réalistes et cohérentes avec le cahier des charges  
-
----
-
