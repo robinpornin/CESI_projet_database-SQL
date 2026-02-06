@@ -1,0 +1,4 @@
+DROP DATABASE IF EXISTS bdd_robin;
+CREATE DATABASE IF NOT EXISTS bdd_robin;
+USE bdd_robin;
+
