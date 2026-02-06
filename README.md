@@ -30,7 +30,7 @@ Contraintes mises en place :
 - 6 capteurs par ville, 2 relevés par capteur → 312 relevés  
 - 10 rapports minimum  
 
-## Requêtes SQL principales
+## Requêtes SQL travaillées
 1. Liste de l'ensemble des agences  
 2. Liste du personnel technique de l'agence de Bordeaux  
 3. Nombre total de capteurs  
