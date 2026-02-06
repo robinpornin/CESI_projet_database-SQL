@@ -1,4 +1,4 @@
-# Projet Bases de Données – Qualité de l’air en France
+# Projet Base de Données ClearData – Gestion des capteurs de gaz
 ---
 
 ## 🌍 Contexte
